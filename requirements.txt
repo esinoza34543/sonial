@@ -1,3 +1,4 @@
+aiohttp
 dnspython
 google-api-python-client
 google-auth-oauthlib
@@ -9,3 +10,5 @@ python-telegram-bot==13.15
 requests
 telegraph
 tenacity
+Flask==2.2.2
+gunicorn==20.1.0
